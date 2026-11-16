@@ -1,3 +1,0 @@
-- Admin:   username `alea`,    password `alea`
-- Petugas: username `baskara`, password `baskara`
-- Owner:   username `camila`,  password `camila`
